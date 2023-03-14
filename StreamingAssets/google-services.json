@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14614867702",
+    "project_id": "cop-car-scan",
+    "storage_bucket": "cop-car-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14614867702:android:53e5ad60ff337954c1c6d7",
+        "android_client_info": {
+          "package_name": "com.sunsetgames.copcarscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14614867702-62o51gmvf88nhbg170ddfa7cv96ae59e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTH3POqZWR3-EY37IMdbvw25Jk2LzJD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14614867702-62o51gmvf88nhbg170ddfa7cv96ae59e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14614867702-51rta36md6ue43qfa261j88jr6bgv9aa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunsetgames.copcarscan",
+                "app_store_id": "1579072255"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
